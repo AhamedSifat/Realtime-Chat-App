@@ -11,7 +11,6 @@ A full-stack real-time chat application built with modern web technologies. Feat
 - � Comprehensive error handling
 - 📱 Responsive design
 - 🔄 Global state management with Zustand
-- 🚀 Free deployment configuration
 
 ## Tech Stack 🛠️
 
